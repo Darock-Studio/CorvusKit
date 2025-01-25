@@ -26,26 +26,24 @@ import _SwiftConcurrencyShims
   final public func checkIsCOed() async throws -> Swift.Bool
   @discardableResult
   @inlinable final public func checkAndApplyWatermark() async throws -> Swift.Bool {
-        var view: EmptyView? { nil }
-        return try await _checkAndApplyWatermark(content: { view })
+        return try await _checkAndApplyWatermark(useDefaultWatermark: true, content: { EmptyView() })
     }
   @discardableResult
   @inlinable final public func checkAndApplyWatermark<T>(@SwiftUICore.ViewBuilder content: @escaping () -> T) async throws -> Swift.Bool where T : SwiftUICore.View {
         try await _checkAndApplyWatermark(content: content)
     }
   @usableFromInline
-  final internal func _checkAndApplyWatermark<T>(content: @escaping () -> T?) async throws -> Swift.Bool where T : SwiftUICore.View
+  final internal func _checkAndApplyWatermark<T>(useDefaultWatermark: Swift.Bool = false, content: @escaping () -> T) async throws -> Swift.Bool where T : SwiftUICore.View
   @usableFromInline
-  @_Concurrency.MainActor final internal func __applyWatermarkNow<T>(content: () -> T?) where T : SwiftUICore.View
+  @_Concurrency.MainActor final internal func __applyWatermarkNow<T>(useDefaultWatermark: Swift.Bool = false, content: () -> T) where T : SwiftUICore.View
   @inlinable final public func appStartupAutoCheck(dryRun: Swift.Bool = false) async throws {
-        var view: EmptyView? { nil }
-        try await _appStartupAutoCheck(dryRun: dryRun, watermark: { view })
+        try await _appStartupAutoCheck(dryRun: dryRun, useDefaultWatermark: true, watermark: { EmptyView() })
     }
   @inlinable final public func appStartupAutoCheck<T>(dryRun: Swift.Bool = false, @SwiftUICore.ViewBuilder watermark: @escaping () -> T) async throws where T : SwiftUICore.View {
         try await _appStartupAutoCheck(dryRun: dryRun, watermark: watermark)
     }
   @usableFromInline
-  final internal func _appStartupAutoCheck<T>(dryRun: Swift.Bool = false, watermark: @escaping () -> T?) async throws where T : SwiftUICore.View
+  final internal func _appStartupAutoCheck<T>(dryRun: Swift.Bool = false, useDefaultWatermark: Swift.Bool = false, watermark: @escaping () -> T) async throws where T : SwiftUICore.View
   public enum COCheckError : Swift.Error {
     case deviceCheckInternalError(any Swift.Error)
     case deviceCheckReturnsEmptyTokenWithoutError

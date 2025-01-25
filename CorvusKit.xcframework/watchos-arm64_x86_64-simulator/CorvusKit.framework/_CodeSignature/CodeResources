@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		KXwZdIuNy1wxae18CrE73WwXxT8=
+		ggZSUC3VPfkc6wb07/fAn8bqtdE=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		TnfZV2Sa9sulVM3W8JfiHcaMaGg=
+		yJitlCmJXinGQBB78PkwgDOoU30=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		ILEnHuOL/KPnCEbfoOhWhVIR0n0=
+		Oj/peoYS70l1Ssabp5V0tuVC6FI=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		8GM8ttjan/mz0FbJ1mOfV0588Jk=
+		u3sukJHF4KxyvLWaWTDtTRRZR4Q=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		TBsJBQ80olz3tLn5FqHQ0rbttrQ=
+		+rUv7+rgU8pSh6/dJeQCgMUZmSc=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		4fxMcCRJDk5Rk7b8WziPIlfKJTw=
+		fglmYHitUcPHvvcQ0Cl3l32tM/g=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		goc/IdFu5dPhe0ogoUA8xQ/TUYo=
+		eD140HGbIvffalxDlm6l/hK/P14=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		J0B8Ir0OG8mXcuFTDCkK5Ie+VME=
+		F0K20UOLm9zp1nemP/5EWJt2iDo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BfJc+skDxoyan/GjFAhIkecdRVKMti/tzk8xa5ZRYcY=
+			zz/aU75gxuiAfWRDW53BZqHjxKldnE1GDC1ZYgYMaAY=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6K0IWr/2yrQoJSz4NGP1fykXtLyKoHz6bPCqvcUAO/I=
+			D022gZFTJojqQftE7CI1lt/lAkJvfqWPo/JlT323O9c=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kcx6wBps+QUkSLQLCqlxIUw7x3DQiYvvABSo5/OdcEc=
+			CZT2oQ1QsFmql5GBPLg0jx7u5dOk+ZsgAE+VlukACYc=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/K/d1kUg38KAl6Ur4cIECUX551SFJRdeuuSuBxwb0zM=
+			Eafa33M4q7U8JkkLROasBiS8I1nYZBAOYvzOAux99eA=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n2JczT/hsJoLck/2YMZyxM24yb4wYv7UCjdX+nkJfo4=
+			yWCnCzwOSH4wuHHfIaJ5NPn3aRKXmop4bjybfkj8Xck=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -134,7 +134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kAKkeSGc5PH5Z9ppncwtgYUXmXy9myes7FJxFx9S7Qk=
+			bMhaEsJqVIhsaeWMap+pnPjIx8LNnYfvezd9gIZ08L4=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -148,14 +148,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OqakrWhOerEonWMPLhYtkyV44ytLH0e1RnEW8XQi8lA=
+			nUK/6ffisPnfyAfmDOp5i3DzlLzJiR85IVuNHaknl3o=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iH4nXJj7sZyqt8WSgiZbUU+mMAG5fpabaOAZjt8J3bk=
+			cetAjwQVrc6pLOn6vvfKze4uzO6jwhSfAzkltBA74L8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
