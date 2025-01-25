@@ -1,0 +1,65 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios16.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name CorvusKit
+import CommonCrypto
+@_exported import CorvusKit
+import DeviceCheck
+import Foundation
+import OSLog
+import Swift
+import SwiftUI
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers final public class COKChecker {
+  public static let shared: CorvusKit.COKChecker
+  @SwiftUI.AppStorage @_projectedValueProperty($cachedCheckStatus) final public var cachedCheckStatus: Swift.Bool {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    _modify
+  }
+  final public var $cachedCheckStatus: SwiftUICore.Binding<Swift.Bool> {
+    get
+  }
+  final public func checkIsCOed() async throws -> Swift.Bool
+  @discardableResult
+  @inlinable final public func checkAndApplyWatermark() async throws -> Swift.Bool {
+        return try await _checkAndApplyWatermark(useDefaultWatermark: true, content: { EmptyView() })
+    }
+  @discardableResult
+  @inlinable final public func checkAndApplyWatermark<T>(@SwiftUICore.ViewBuilder content: @escaping () -> T) async throws -> Swift.Bool where T : SwiftUICore.View {
+        try await _checkAndApplyWatermark(content: content)
+    }
+  @usableFromInline
+  final internal func _checkAndApplyWatermark<T>(useDefaultWatermark: Swift.Bool = false, content: @escaping () -> T) async throws -> Swift.Bool where T : SwiftUICore.View
+  @usableFromInline
+  @_Concurrency.MainActor final internal func __applyWatermarkNow<T>(useDefaultWatermark: Swift.Bool = false, content: () -> T) where T : SwiftUICore.View
+  @inlinable final public func appStartupAutoCheck(dryRun: Swift.Bool = false) async throws {
+        try await _appStartupAutoCheck(dryRun: dryRun, useDefaultWatermark: true, watermark: { EmptyView() })
+    }
+  @inlinable final public func appStartupAutoCheck<T>(dryRun: Swift.Bool = false, @SwiftUICore.ViewBuilder watermark: @escaping () -> T) async throws where T : SwiftUICore.View {
+        try await _appStartupAutoCheck(dryRun: dryRun, watermark: watermark)
+    }
+  @usableFromInline
+  final internal func _appStartupAutoCheck<T>(dryRun: Swift.Bool = false, useDefaultWatermark: Swift.Bool = false, watermark: @escaping () -> T) async throws where T : SwiftUICore.View
+  public enum COCheckError : Swift.Error {
+    case deviceCheckInternalError(any Swift.Error)
+    case deviceCheckReturnsEmptyTokenWithoutError
+    case couldNotConnectToDarockServer
+    case serverReturnedUnexpectedResult(Swift.String)
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers final public class COKUpdater {
+  public static let shared: CorvusKit.COKUpdater
+  final public func updateCOStatus(_ status: Swift.Bool) async throws
+  public enum COUpdateError : Swift.Error {
+    case deviceCheckInternalError(any Swift.Error)
+    case deviceCheckReturnsEmptyTokenWithoutError
+    case couldNotConnectToDarockServer
+    case serverReportsFailedToUpdate(Swift.String)
+  }
+  @objc deinit
+}

@@ -1,0 +1,6 @@
+framework module CorvusKit {
+  umbrella header "CorvusKit.h"
+  export *
+
+  module * { export * }
+}

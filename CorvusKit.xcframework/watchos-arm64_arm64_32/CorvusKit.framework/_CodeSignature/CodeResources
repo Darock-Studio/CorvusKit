@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64-apple-watchos.swiftsourceinfo</key>
 		<data>
-		mx+5SVRAV94tM+pLGMzqcKZ4qKM=
+		VdjB8VlBlZtQzWHW5SiK52Gf68E=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<data>
-		P0sTNi1CqoNN5hmg+OjhrAV5tNY=
+		81SonArCG+4Uee4zh7QtnLiBF6o=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<data>
-		0X5RMdx3cSJxVtu6J34xY9iR5Dc=
+		4+23KmwOu87DyEfgQi5WwDJtbP4=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
@@ -58,12 +58,21 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<data>
-		azbDIIpz9TM6htwMYatBfbtBO3c=
+		a+sadM0cRq4lvbGU8X9LQ0XlPUk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		nHAZRVYie4zANIwaUfIsDCE9Fc0=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dJpxtVYbU13r1gG118xEthEwaeY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -82,22 +91,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mx+5SVRAV94tM+pLGMzqcKZ4qKM=
+			VdjB8VlBlZtQzWHW5SiK52Gf68E=
 			</data>
 			<key>hash2</key>
 			<data>
-			OTgebixjtxLhytfRMnTJWFJAY+6FkWhSF63rUCcaHWE=
+			vOl+JC6kcor8+mA7ZaXYyGDdhX1K1scvhyuZCJIr06E=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P0sTNi1CqoNN5hmg+OjhrAV5tNY=
+			81SonArCG+4Uee4zh7QtnLiBF6o=
 			</data>
 			<key>hash2</key>
 			<data>
-			j5djPJglp9Is/y1aFbSjUXNlzk3jkr5bx9iZBhwE5R0=
+			UOMaNiRsQd0hmJkCkAU/BWcGSDgxG8UZNzdKInJUvL8=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos.abi.json</key>
@@ -148,11 +157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0X5RMdx3cSJxVtu6J34xY9iR5Dc=
+			4+23KmwOu87DyEfgQi5WwDJtbP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ceh2EdHVMU/qnLjbKMnE6c9/Etekkl7/Y3sixDsLxO4=
+			ShAZvQDAumSfrBcraozrHBT7zJhUF/BK1fOAqt2CbiQ=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64_32-apple-watchos.abi.json</key>
@@ -203,11 +212,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			azbDIIpz9TM6htwMYatBfbtBO3c=
+			a+sadM0cRq4lvbGU8X9LQ0XlPUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			QWPcmfv2M2T8cgHbSajHuyHnQm0AAl+OYka6+IulFmo=
+			pyn4EhmcKR/7+ZYPaT39XOFX7U7B3JjYilEQn926t/o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -220,6 +229,19 @@
 			<data>
 			2dMOaaZ8a9Hf4WvwmSngbXJbxFUNCMio0CRhvL+SG5o=
 			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dJpxtVYbU13r1gG118xEthEwaeY=
+			</data>
+			<key>hash2</key>
+			<data>
+			AQciXjfe+o2d+oaxu7aZ00vgxzbEmZjtlpTtw2gbSkU=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
