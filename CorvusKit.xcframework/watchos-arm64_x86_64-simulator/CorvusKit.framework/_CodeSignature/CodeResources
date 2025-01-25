@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		ggZSUC3VPfkc6wb07/fAn8bqtdE=
+		W50f8XuJKghCinN9DM2RowtmRb4=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		yJitlCmJXinGQBB78PkwgDOoU30=
+		myAIFTW0lstWfZL8vCGgjINbN0Y=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		+rUv7+rgU8pSh6/dJeQCgMUZmSc=
+		M+yD/Ug4xIqGgTB8C1H+a7g37Rw=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		F0K20UOLm9zp1nemP/5EWJt2iDo=
+		eNySx3N8+jsa93iJMOOcQc0Gfkc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zz/aU75gxuiAfWRDW53BZqHjxKldnE1GDC1ZYgYMaAY=
+			neFZC1cefst/gm4wYx2NmBWlzi2fsxnOgEj9axYlTxY=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D022gZFTJojqQftE7CI1lt/lAkJvfqWPo/JlT323O9c=
+			TypEOOSd5ej4JXcUveZYkdxvaH8/B9I5zBwqFRo/92s=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yWCnCzwOSH4wuHHfIaJ5NPn3aRKXmop4bjybfkj8Xck=
+			47SAA2zWXqprXunbtX+ZyPX8qDIPaNECfXHQdnK0qtE=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cetAjwQVrc6pLOn6vvfKze4uzO6jwhSfAzkltBA74L8=
+			keYlmbq0XhK2Q168Cjly48TsF0sov0zXqYt7CGrxhIs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
