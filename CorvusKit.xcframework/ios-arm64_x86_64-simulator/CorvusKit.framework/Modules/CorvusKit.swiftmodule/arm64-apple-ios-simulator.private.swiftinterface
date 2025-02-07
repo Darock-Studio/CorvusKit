@@ -12,6 +12,7 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers final public class COKChecker {
+  @available(*, deprecated, message: "Shared instance has been deprecated, use init(caller:) instead.")
   public static let shared: CorvusKit.COKChecker
   @SwiftUI.AppStorage @_projectedValueProperty($cachedCheckStatus) final public var cachedCheckStatus: Swift.Bool {
     get
@@ -23,6 +24,7 @@ import _SwiftConcurrencyShims
   final public var $cachedCheckStatus: SwiftUICore.Binding<Swift.Bool> {
     get
   }
+  public init(caller: CorvusKit.COKCaller)
   final public func checkIsCOed() async throws -> Swift.Bool
   @discardableResult
   @inlinable final public func checkAndApplyWatermark() async throws -> Swift.Bool {
@@ -58,8 +60,19 @@ import _SwiftConcurrencyShims
   }
   @objc deinit
 }
+public enum COKCaller : Swift.String {
+  case darock
+  case garden
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 @_hasMissingDesignatedInitializers final public class COKUpdater {
+  @available(*, deprecated, message: "Shared instance has been deprecated, use init(caller:) instead.")
   public static let shared: CorvusKit.COKUpdater
+  public init(caller: CorvusKit.COKCaller)
   final public func updateCOStatus(_ status: Swift.Bool) async throws
   public enum COUpdateError : Swift.Error {
     case deviceCheckInternalError(any Swift.Error)
@@ -69,3 +82,6 @@ import _SwiftConcurrencyShims
   }
   @objc deinit
 }
+extension CorvusKit.COKCaller : Swift.Equatable {}
+extension CorvusKit.COKCaller : Swift.Hashable {}
+extension CorvusKit.COKCaller : Swift.RawRepresentable {}

@@ -10,11 +10,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wgkymXKy9F38v05SqRjjF90BNOg=
+		rh77flklsjIvhna9Ly1Nl7DVoAE=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		9C181TXC14LalGtiDq2p5OE2hkg=
+		MLdnukk5j50/C17cciVjbw0zy5M=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jCmcd/0shldw3lEFQELQr1e9+4o=
+		LbJwylCfMO68rJrDq39581bskV4=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Li34+9ibLNV3UvGlsi2hi0Pza7o=
+		VxEVkZN2mZO9ToxcBnsRosNUY2E=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HIJWkIh6Hb6vq0fZluC3Wii7klQ=
+		XQNeXphvWaiEH/jyGhBzLfdkBxs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L4Uld2ENo5pq/m3iC2VPpizyuJKr18PZS0zID1tb3H8=
+			ppYTNqOaxUeYHc5KDvH1IZGyvLjjmn6muw1S+mlqaiI=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -77,7 +77,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CtxxwvUgbZ1gADqGIg9o8C8bCS2m32xhY12wxncSqOk=
+			dGgG+C3T8EIAssnEWwHLxflWmECOaWOsnlSqYgp4MsM=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -91,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EOJPbrM2tsptDc2rV1HDPvxAmUWCqcQsRGca6ZCKFc4=
+			qVvq+btydh+flk7rKk0qsQESKbvVu+LcEqOlYoXZ/44=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4CYizKPnTzfVNSJgUM6x6iSRXMrvu5qep3dqzRfujF8=
+			C0fsijls1p1nAmsPZPdh9IsWre9rHObh8MR/O+0EWI4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

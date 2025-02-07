@@ -10,15 +10,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n8VkMpL+iw1YMxyfXmogsN1fzEw=
+		RKTrVi7508rs0+nYuBBeq2IMDt4=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+drgOwECw/F5leULBbGqYgKt/hw=
+		gVvToTMgr7J5ZKB2A/gJtYuChug=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		rctm7pQ98hLq5C5UaQE+kh0jovo=
+		HKkVJcbv/Wkyb7Z7Ult0aT9JONs=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0YvOWNrxir31CUOjoWh7oWIg13o=
+		XhtMHXwefhaluL/nHyBT2zZ6PdI=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		KRYP2fCGRarlsEnXSZLwQ/vEYMs=
+		ewJVkdaS8r8k3QxPba9982QS8QM=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kvSk7WbC66Ai+vi2ypzSP4Qv0CM=
+		/6kVZ49DqvbmaPhC4KhT3QUzT74=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		c4VYI3fHKunxT0KL20t9TxQr2hw=
+		+N7IcNV4VVPgfyNDSl3ZA2W0sOo=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ztHGIbVIFwpwiZ3TNHva/h5PMuU=
+		mv/jp7qVT2UdkH0o1BAPcDMFcLg=
 		</data>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3USTGpbx3JZYhd9aoWeas7A/9iA=
+		RhnuMDHKb2swx6vEAYE6Bq6uVTY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -87,14 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bylxl+6q5GuVwZEYrpT2IRyCwVHshPsLcWgojKSE7HA=
+			d09JNqUtqYf0khgsLoNTIhaGs3izcUgm6S5CVyE0W8M=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZwVNOLC9c72xzm0FntJBO6CNZ4YQzd44zY0zGnmraTE=
+			Qn4P79mhz5117n5daJLs+fNZhWxx1sNuL1koNzLIOcE=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -108,7 +108,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yStNeVfi9Il/x6Z9dz4J4yfio+Zq/kguQlyu7/sL7OY=
+			M+pPgOOqgZsCcdRsGaQJC/We9kk33DW2/+aE+AGGk00=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -122,14 +122,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			COEAbNgjjLoJMtM2ot0uBYmuIKkmDoUJGIwK7LmXJAw=
+			PdUynNReT8408sb+VZoYHp7bISz5BZJh95rYPySSMrQ=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pi36V8oyDnhCwj7iBvF+pBoRIjfdMRyYgHxr0doBwt4=
+			ZQhGhGqAWY5xyNMBvth1EzOB1d+ffSrYkCPC1WqpmBM=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z/cL/zQQOkPhy/pcgKQDB9PeRmAza4zPTSJFm1jqh54=
+			lvVeyBI8CXQmlTO1mGSd8MOOrVFvYDFmiyEy0ZWNBow=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -157,14 +157,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XNKwNrmsEjlU72FgFthZxroYwOQsTU5CwV6iI+c0xso=
+			OeEtIUi5smNDxhwCTyDZdlAyqJ5DwoIkBx0H1JanwZM=
 			</data>
 		</dict>
 		<key>Modules/CorvusKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zFDIS2szzJw86Dr4YfSBasSKxlZKGnn5ZR5edkxUVBk=
+			eWgSNlo/prCqtzwGVi/aq+e8PPmHH8JdFM2jsuxXMQE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
